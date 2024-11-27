@@ -1,0 +1,3 @@
+Public Function ButtonClicked()
+    MsgBox "Кнопка была нажата!", vbInformation, "Информация"
+End Function
